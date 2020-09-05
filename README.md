@@ -46,7 +46,7 @@ h2{
 	        	<h1><span><b><p align="center">Home</p></b></span></h1>
 	    <div align="center"><img src="https://i.insider.com/5e3c762f0ce3d137125e9546?width=1100&format=jpeg&auto=webp" height="510" width="650"/></div>
 	       <p class="blue" class="indent">
-	         My name is <i>A-tech-coder</i>
+	         My name is <i>Andre-Max</i>
 	     I am a high schooler. I love to code and making amazing websites. Moreover, I use my skills to earn money during my free time. I learnt these skills on <strong><a href="https://www.sololearn.com/">SoloLearn</a></strong> and it took me a week to learn this amazing skill.My mission is to;</p>
 	   <p align="right"><i>"-Declare variables, not war"</i>
 	</p></div>
